@@ -1,0 +1,1 @@
+<h1 style="color: red;">Welcome for Admin, Emp, mgr Page</h1>
